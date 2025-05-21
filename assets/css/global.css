@@ -67,3 +67,7 @@ div.lazy {
     font-family: Courier, monospace;
 }
 
+.badge-paper {
+    background-color: #ffa500;  /* 例如橙色 */
+    color: white;               /* 文字颜色 */
+  }
