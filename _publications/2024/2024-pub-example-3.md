@@ -1,25 +1,27 @@
 ---
-title:          "Proximal Federated Learning for Body Mass Index Monitoring using Commodity WiFi"
-date:           2024-12-04 00:01:00 +0800
+title:          "Self-Supervised Representation Learning and Temporal-Spectral Feature Fusion for Bed Occupancy Detection"
+date:           2024-09-09 00:01:00 +0800
 selected:       true
-pub:            "ACM MobiCom '24: Proceedings of the 30th Annual International Conference on Mobile Computing and Networking"
+pub:            "Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (UbiComp/IMWUT)"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
 # pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'
 pub_date:       "2024"
 
 abstract: >-
-  This paper proposes a privacy-preserving BMI monitoring system using proximal federated learning (PFL) and commodity WiFi devices, leveraging Channel State Information (CSI) to passively classify BMI without requiring active user participation. The approach, powered by the Adaptive Elastic Stochastic ADMM algorithm, addresses data heterogeneity and connectivity issues, achieving higher accuracy, lower communication costs, and better scalability than existing personalized FL methods.
-cover:          /assets/images/covers/2024-HARCL.png
+  This paper presents SeismoDot, a bed occupancy detection system that combines self-supervised learning and spectral-temporal feature fusion to improve generalization across diverse environments with limited data. Unlike traditional threshold-based methods, SeismoDot achieves high accuracy and F1 scores across 13 settings and remains effective even when trained on only 20% of the data, demonstrating strong adaptability and efficiency.
+cover:          /assets/images/covers/2024-seismodot.png
 authors:
-  - Jiaxi Li
-  - Kiran Davuluri
-  - Khairul Mottakin
-  - Zheng Song
-  - Fei Dou 
-  - Jin Lu
+  - Yingjian Song
+  - Zaid Farooq Pitafi
+  - Fei Dou
+  - Jin Sun
+  - Xiang Zhang
+  - Bradley G Phillips
+  - WenZhan Song
+
 links:
-  Paper: https://dl.acm.org/doi/abs/10.1145/3636534.3694735
+  Paper: https://dl.acm.org/doi/abs/10.1145/3678514
   # Code: https://github.com/luost26/academic-homepage
   # Unsplash: https://unsplash.com/photos/sliced-in-half-pineapple--_PLJZmHZzk
 ---
