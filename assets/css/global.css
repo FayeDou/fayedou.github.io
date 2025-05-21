@@ -82,6 +82,11 @@ div.lazy {
     color: white;               /* 文字颜色 */
   } 
 
+.badge-grant {
+    background-color: #fa9d11;  /* 例如绿色 */ 
+    color: white;               /* 文字颜色 */
+  } 
+
 
   
 
