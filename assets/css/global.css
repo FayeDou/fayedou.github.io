@@ -68,6 +68,7 @@ div.lazy {
 }
 
 .badge-paper {
-    background-color: #ffa500;  /* 例如橙色 */
+    /* background-color: #ffa500;  例如橙色 */
+    background-color: #45e169;  /* 例如绿色 */ 
     color: white;               /* 文字颜色 */
   }
