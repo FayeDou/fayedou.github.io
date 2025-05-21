@@ -6,7 +6,48 @@ body_attr: >-
   data-spy="scroll" data-target="#navbar-year" data-offset="100"
 ---
 
+
 {% assign pubs_by_year = site.publications | sort: "date" | reverse | group_by_exp: "item", "item.date | date: '%Y'" %}
+
+<div class="row">
+  <div class="col-12 col-lg-10">
+    {% assign rendered_before_2023 = false %}
+    {% for year in pubs_by_year %}
+      {% if year.name == '2024' or year.name == '2023' %}
+        <h2 class="pt-4" id="year-{{ year.name }}">{{ year.name }}</h2>
+        <div class="my-0 p-0 bg-white shadow-sm rounded-sm">
+          {% for item in year.items %}
+            {% include widgets/publication_item.html item=item hide_bottom_border=forloop.last first=forloop.first last=forloop.last %}
+          {% endfor %}
+        </div>
+      {% elsif rendered_before_2023 == false %}
+        <h2 class="pt-4" id="year-before-2023">Before 2023</h2>
+        <div class="my-0 p-0 bg-white shadow-sm rounded-sm">
+          {% for past_year in pubs_by_year %}
+            {% if past_year.name != '2024' and past_year.name != '2023' %}
+              {% for item in past_year.items %}
+                {% include widgets/publication_item.html item=item hide_bottom_border=forloop.last first=forloop.first last=forloop.last %}
+              {% endfor %}
+            {% endif %}
+          {% endfor %}
+        </div>
+        {% assign rendered_before_2023 = true %}
+      {% endif %}
+    {% endfor %}
+  </div>
+
+  <div class="col-2 d-none d-lg-block">
+    <div id="navbar-year" class="nav nav-pills flex-column sticky-top" style="top: 80px">
+      <a class="nav-link d-block" href="#year-2024">2024</a>
+      <a class="nav-link d-block" href="#year-2023">2023</a>
+      <a class="nav-link d-block" href="#year-before-2023">Before 2023</a>
+    </div>
+  </div>
+</div>
+
+
+
+<!-- {% assign pubs_by_year = site.publications | sort: "date" | reverse | group_by_exp: "item", "item.date | date: '%Y'" %}
 
 <div class="row">
     <div class="col-12 col-lg-10">
@@ -29,4 +70,4 @@ body_attr: >-
         </div>
     </div>
 
-</div>
+</div> -->
