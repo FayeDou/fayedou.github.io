@@ -72,8 +72,16 @@ div.lazy {
     color: white;               /* 文字颜色 */
   }
 
+.badge-award {
+    background-color: #ed240d;  /* 例如绿色 */ 
+    color: white;              /* 文字颜色 */
+  }
+
+.badge-service {
+    background-color: #9a0b87;  /* 例如绿色 */ 
+    color: white;               /* 文字颜色 */
+  } 
 
 
+  
 
-
-    /* background-color: #ffa500;  例如橙色 */
