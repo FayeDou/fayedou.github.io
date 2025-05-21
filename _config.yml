@@ -34,11 +34,24 @@ plugins:
 
 # timezone: Asia/Shanghai
 
+# collections:
+#   - publications
+#       output: true
+#       permalink: /publications/:path/
+#   - teaching
+#   - group
+#   - news
+#   - showcase
+
 collections:
-  - publications
-      output: true
-      # permalink: /publications/:path/
-  - teaching
-  - group
-  - news
-  - showcase
+  publications:
+    output: true
+    permalink: /publications/:path/
+  teaching:
+    output: true
+  group:
+    output: true
+  news:
+    output: true
+  showcase:
+    output: true
