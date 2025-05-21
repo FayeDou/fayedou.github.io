@@ -36,7 +36,9 @@ plugins:
 
 collections:
   - publications
-      # output: true
+      output: true
       # permalink: /publications/:path/
+  - teaching
+  - group
   - news
   - showcase
