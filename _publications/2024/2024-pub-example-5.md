@@ -1,7 +1,7 @@
 ---
 title:          "A Systematic Assessment of OpenAI o1-Preview for Higher Order Thinking in Education"
 date:           2024-10-11 00:01:00 +0800
-selected:       true
+selected:       false
 pub:            "arXiv preprint arXiv:2410.21287"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'

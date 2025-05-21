@@ -1,7 +1,7 @@
 ---
 title:          "Mobilizing Personalized Federated Learning in Infrastructure-Less and Heterogeneous Environments via Random Walk Stochastic ADMM"
 date:           2023-11-21 00:01:00 +0800
-selected:       false
+selected:       true
 pub:            "Advances in Neural Information Processing Systems 36 (NeurIPS)"
 pub_date:       "2023"
 abstract: >-

@@ -1,7 +1,7 @@
 ---
 title:          "A Secure Communication Scheme Based on Spatio-temporal Dynamics of Underwater Acoustic Channel"
 date:           2024-06-09 00:01:00 +0800
-selected:       true
+selected:       false
 pub:            "IEEE International Conference on Communications (ICC)"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'

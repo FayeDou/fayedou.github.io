@@ -1,7 +1,7 @@
 ---
 title:          "HELENE: Hessian Layer-wise Clipping and Gradient Annealing for Accelerating Fine-tuning LLM with Zeroth-order Optimization"
 date:           2024-11-16 00:01:00 +0800
-selected:       true
+selected:       false
 pub:            "arXiv preprint arXiv:2411.10696"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'

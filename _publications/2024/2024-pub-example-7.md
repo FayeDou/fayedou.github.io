@@ -1,7 +1,7 @@
 ---
 title:          "Proximal Federated Learning for Body Mass Index Monitoring using Commodity WiFi"
 date:           2024-12-04 00:01:00 +0800
-selected:       true
+selected:       false
 pub:            "ACM MobiCom '24: Proceedings of the 30th Annual International Conference on Mobile Computing and Networking"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'

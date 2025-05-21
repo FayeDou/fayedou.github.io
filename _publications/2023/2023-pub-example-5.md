@@ -1,7 +1,7 @@
 ---
 title:          "On-Device Indoor Positioning: A Federated Reinforcement Learning Approach With Heterogeneous Devices"
 date:           2023-08-11 00:01:00 +0800
-selected:       false
+selected:       true
 pub:            "IEEE Internet of Things Journal (IOT-J)"
 pub_date:       "2023"
 abstract: >-
