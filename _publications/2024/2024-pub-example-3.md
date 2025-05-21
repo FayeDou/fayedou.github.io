@@ -9,8 +9,8 @@ pub:            "ACM MobiCom '24: Proceedings of the 30th Annual International C
 pub_date:       "2024"
 
 abstract: >-
-  Photo by Pineapple Supply Co. on Unsplash. Please put a tldr (too-long-didnt-read, 1~2 sentences) of your publication here. It is not recommended to put the actual abstract here because it is usually too long to fit in. $\LaTeX$ is supported. $a=b+c$.
-cover:          /assets/images/covers/cover3.jpg
+  This paper proposes a privacy-preserving BMI monitoring system using proximal federated learning (PFL) and commodity WiFi devices, leveraging Channel State Information (CSI) to passively classify BMI without requiring active user participation. The approach, powered by the Adaptive Elastic Stochastic ADMM algorithm, addresses data heterogeneity and connectivity issues, achieving higher accuracy, lower communication costs, and better scalability than existing personalized FL methods.
+cover:          /assets/images/covers/2024-HARCL.png
 authors:
   - Jiaxi Li
   - Kiran Davuluri
