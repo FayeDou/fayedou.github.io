@@ -10,7 +10,7 @@ pub_date:       "2024"
 
 abstract: >-
   This article proposes a secure key generation scheme for underwater acoustic communications that leverages the spatio-temporal dynamics of channel impulse responses (CIRs), using amplitude and time delay as raw key parameters. A synchronous probing protocol enhances channel reciprocity, and field experiments confirm the scheme’s effectiveness and improved performance in resource-constrained underwater environments.
-cover:          /assets/images/covers/2024-spatio-temp.png
+cover:          /assets/images/covers/2024-spatio-temp-2.png
 authors:
   - Yishan Su
   - Pan Pan

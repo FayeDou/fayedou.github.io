@@ -7,7 +7,7 @@ pub_date:       "2023"
 abstract: >-
   This paper introduces a novel Transformer-based architecture for crop yield prediction that incorporates Customized Positional Encoding (CPE), adapting sequence encoding based on static variables like geographic location. By leveraging CPE and partially linearized attention, the model significantly improves prediction robustness under climate variability, reducing mean absolute error by up to 26% compared to baseline models during extreme drought years.
 
-cover:          /assets/images/covers/2023-cpe.png
+cover:          /assets/images/covers/2023-cpe-3.png
 authors:
   - Qinqing Liu
   - Fei Dou

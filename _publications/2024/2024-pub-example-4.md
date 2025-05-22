@@ -10,7 +10,7 @@ pub_date:       "2024"
 
 abstract: >-
   This paper proposes a secure localization scheme for underwater wireless sensor networks using cooperative beamforming with mobile anchor nodes and TDOA-based self-localization, addressing privacy threats from eavesdroppers. By formulating a multi-objective optimization problem and solving it with a DRL-based MADDPG algorithm, the approach enhances both security and energy efficiency, as validated by simulations and field experiments.
-cover:          /assets/images/covers/2024-rl-cb1.png
+cover:          /assets/images/covers/2024-rl-cb1-2.png
 authors:
   - Rong Fan
   - Azzedine Boukerche
