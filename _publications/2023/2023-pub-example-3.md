@@ -7,7 +7,7 @@ pub_date:       "2023"
 abstract: >-
   This paper investigates the integration of Artificial General Intelligence (AGI) within the Internet of Things (IoT), proposing a conceptual framework that highlights AGI’s potential to enhance intelligent decision-making across diverse domains such as healthcare, agriculture, and smart infrastructure. It also examines key challenges, including limited computational resources, large-scale communication complexities, and security and privacy concerns, emphasizing the need for targeted research to adapt AGI for resource-constrained IoT environments.
 
-cover:          /assets/images/covers/2023-iot-agi2.png
+cover:          /assets/images/covers/2023-iot-agi3.png
 authors:
   - Fei Dou
   - Jin Ye
