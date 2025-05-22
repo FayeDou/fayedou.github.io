@@ -15,7 +15,7 @@ authors:
   - Fei Dou
   - Zhigang Jin
   - Yishan Su
-  - Jian Liu
+  - Jia Liu
   
   
 
