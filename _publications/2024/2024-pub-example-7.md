@@ -10,7 +10,7 @@ pub_date:       "2024"
 
 abstract: >-
   This paper proposes a privacy-preserving BMI monitoring system using proximal federated learning (PFL) and commodity WiFi devices, leveraging Channel State Information (CSI) to passively classify BMI without requiring active user participation. The approach, powered by the Adaptive Elastic Stochastic ADMM algorithm, addresses data heterogeneity and connectivity issues, achieving higher accuracy, lower communication costs, and better scalability than existing personalized FL methods.
-cover:          /assets/images/covers/2024-HARCL.png
+cover:          /assets/images/covers/2024-HARCL2.png
 authors:
   - Jiaxi Li
   - Kiran Davuluri

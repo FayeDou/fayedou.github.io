@@ -7,7 +7,7 @@ pub_date:       "2023"
 abstract: >-
   This paper proposes RWSADMM, a novel federated learning algorithm designed for infrastructure-less environments with isolated, heterogeneous nodes connected via wireless links. By leveraging server mobility and enforcing hard constraints among adjacent clients, RWSADMM enables efficient, personalized learning with provable convergence, reduced communication costs, and improved accuracy and scalability over baseline methods.
 
-cover:          /assets/images/covers/2023-mobilizing.png
+cover:          /assets/images/covers/2023-mobilizing2.png
 authors:
   - Ziba Parsons
   - Fei Dou

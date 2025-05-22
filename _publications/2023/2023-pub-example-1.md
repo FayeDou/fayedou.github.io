@@ -6,7 +6,7 @@ pub:            "Advances in Neural Information Processing Systems 36 (NeurIPS)"
 pub_date:       "2023"
 abstract: >-
   This paper introduces the Polyhedron Attention Module (PAM), which forms interpretable, piecewise polynomial models by adaptively learning feature interactions within polyhedrons in the input space. PAM outperforms ReLU-based networks in expressive power and achieves superior classification results on large-scale click-through rate datasets while uncovering meaningful interactions in medical applications.
-cover:          assets/images/covers/2023-polyh.png
+cover:          assets/images/covers/2023-polyh2.png
 authors:
 - Tan Zhu
 - Fei Dou
@@ -14,6 +14,6 @@ authors:
 - Jin Lu
 - Jinbo Bi
 links:
-  Paper: https://proceedings.neurips.cc/paper_files/paper/2023/hash/1d83ad88759cef8192451543e5d59bf6-Abstract-Conference.html
+  Paper: https://proceedings.neurips.cc/paper_files/paper/2023/file/1d83ad88759cef8192451543e5d59bf6-Paper-Conference.pdf
   Supplemental: https://proceedings.neurips.cc/paper_files/paper/2023/file/1d83ad88759cef8192451543e5d59bf6-Supplemental-Conference.pdf
 ---
