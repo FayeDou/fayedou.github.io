@@ -7,6 +7,8 @@ pages:
   url: /publications
 - name: Teaching
   url: /teaching
+- name: Research
+  url: /research
 - name: Group
   url: /group
 - name: Showcase
