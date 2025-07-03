@@ -9,7 +9,7 @@ pub:            "Proceedings of the ACM on Interactive, Mobile, Wearable and Ubi
 pub_date:       "2025"
 
 abstract: >-
-  This paper presents SeismoDot, a bed occupancy detection system that combines self-supervised learning and spectral-temporal feature fusion to improve generalization across diverse environments with limited data. Unlike traditional threshold-based methods, SeismoDot achieves high accuracy and F1 scores across 13 settings and remains effective even when trained on only 20% of the data, demonstrating strong adaptability and efficiency.
+  This paper presents a privacy-friendly, easy-to-deploy in-bed posture classification framework using seismic sensors, integrating a Multi-Granularity Supervised Contrastive Learning (MGSCL) module and an ensemble Online Adaptation (OA) module. The system effectively adapts to individual variations and unlabeled data, achieving high accuracy (91.67%) and F1 score (91.53%) with minimal labeled data in clinical settings, and maintaining strong performance in home environments, highlighting its potential for sleep quality and health monitoring.
 cover:          /assets/images/covers/2025-MGSCLoa.png
 authors:
   - Yingjian Song
