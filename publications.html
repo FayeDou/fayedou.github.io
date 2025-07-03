@@ -24,7 +24,7 @@ body_attr: >-
         <h2 class="pt-4" id="year-before-2023">Before 2023</h2>
         <div class="my-0 p-0 bg-white shadow-sm rounded-sm">
           {% for past_year in pubs_by_year %}
-            {% if past_year.name != '2024' and past_year.name != '2023' %}
+            {% if past_year.name != '2025' and past_year.name != '2024' and past_year.name != '2023' %}
               {% for item in past_year.items %}
                 {% include widgets/publication_item.html item=item hide_bottom_border=forloop.last first=forloop.first last=forloop.last %}
               {% endfor %}
