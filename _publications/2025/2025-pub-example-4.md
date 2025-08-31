@@ -1,7 +1,7 @@
 ---
 title:          "HELENE: Hessian Layer-wise Clipping and Gradient Annealing for Accelerating Fine-tuning LLM with Zeroth-order Optimization"
 date:           2025-08-20 00:01:00 +0800
-selected:       false
+selected:       true
 pub:            "Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP)"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
