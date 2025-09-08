@@ -32,7 +32,8 @@ short_bio: >-
 
 portrait_url: /assets/images/photos/fei_crop.png
 portrait_caption: >-
-  @Frankenmuth, Michigan's Little Bavaria.
+  # @Frankenmuth, Michigan's Little Bavaria.
+  AI Generated :)
 
 education:
 - name: University of Connecticut (UConn)
