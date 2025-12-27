@@ -12,8 +12,8 @@ abstract: >-
   This paper presents a cross-modal framework for ADL recognition that jointly models semantic narratives and spatially grounded sensor activations. By projecting sensor states onto floorplan grids and aligning them with natural-language descriptions via a CLIP encoder, then capturing temporal dependencies with a dual-stream model, our approach enables trajectory-aware, layout-adaptive activity understanding across heterogeneous smart home environments.
 cover:          /assets/images/covers/2025-cross.png
 authors:
-  - Weihang You
-  - Zishuai Liu
+  - <u>Weihang You</u>
+  - <u>Zishuai Liu</u>
   - Fei Dou
 
 

@@ -12,9 +12,9 @@ abstract: >-
   This work introduces ADLGen, a generative framework that synthesizes realistic event-triggered symbolic sensor sequences for ambient assistive environments, addressing the privacy, cost, and sparsity challenges of real-world ADL data collection. ADLGen combines a decoder-only Transformer with sign-based temporal encoding and context-/layout-aware sampling, plus an LLM-driven generate–evaluate–refine loop to enforce logical and temporal coherence without manual tuning. Experiments show ADLGen outperforms baselines in fidelity, semantic richness, and downstream activity recognition.
 cover:          /assets/images/covers/2025-adlgen.png
 authors:
-  - Weihang You
+  - <u>Weihang You</u>
   - Hanqi Jiang
-  - Zishuai Liu
+  - <u>Zishuai Liu</u>
   - Zihang Xie
   - Tianming Liu
   - Jin Lu

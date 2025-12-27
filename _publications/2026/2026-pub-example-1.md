@@ -12,9 +12,9 @@ abstract: >-
   This paper presents CARE, an end-to-end framework for recognizing ADLs from event-triggered ambient sensors by aligning complementary sequence and image representations. Unlike sequence-only methods that lack spatial awareness and are noise-sensitive, or image-only methods that blur temporal dynamics and distort layouts, CARE enforces Sequence-Image Contrastive Alignment (SICA) while jointly optimizing classification with a contrastive-plus-cross-entropy objective. By combining time-aware, noise-resilient sequence encoding with spatially informed, frequency-sensitive image features, CARE learns aligned and discriminative embeddings.
 cover:          /assets/images/covers/2026-care.png
 authors:
-  - Junhao Zhao
-  - Zishuai Liu
-  - Ruili Fang
+  - <u>Junhao Zhao</u>
+  - <u>Zishuai Liu</u>
+  - <u>Ruili Fang</u>
   - Jin Lu
   - Linghan Zhang
   - Fei Dou
