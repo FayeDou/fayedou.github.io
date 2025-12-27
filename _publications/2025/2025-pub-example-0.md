@@ -1,24 +1,28 @@
 ---
-title:          "LOCAL: Latent Orthonormal Contrastive Learning for Paired Images"
-date:           2025-10-19 00:01:00 +0800
+title:          "ADLGen: Synthesizing Symbolic, Event-Triggered Sensor Sequences for Human Activity Modeling"
+date:           2025-05-23 00:01:00 +0800
 selected:       false
-pub:            "Proceedings of the IEEE/CVF International Conference on Computer Vision (<b>ICCV Findings, Oral</b>)"
+pub:            "arXiv preprint arXiv:2505.17987"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
 # pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'
 pub_date:       "2025"
 
 abstract: >-
-  This paper introduces Latent Orthonormal Contrastive Learning (LOCAL), a method for paired image classification that addresses limitations of Supervised Contrastive Learning (SCL) under small batch sizes and class imbalance. By mapping class representations to orthogonal planes and incorporating a feature correlation module, LOCAL improves efficiency and discriminative power, achieving superior performance on high-resolution, paired satellite image tasks.
-cover:          /assets/images/covers/2024-local.png
+  This work introduces ADLGen, a generative framework that synthesizes realistic event-triggered symbolic sensor sequences for ambient assistive environments, addressing the privacy, cost, and sparsity challenges of real-world ADL data collection. ADLGen combines a decoder-only Transformer with sign-based temporal encoding and context-/layout-aware sampling, plus an LLM-driven generate–evaluate–refine loop to enforce logical and temporal coherence without manual tuning. Experiments show ADLGen outperforms baselines in fidelity, semantic richness, and downstream activity recognition.
+cover:          /assets/images/covers/2025-adlgen.png
 authors:
-  - Fei Dou
+  - <u>Weihang You</u>
+  - Hanqi Jiang
+  - <u>Zishuai Liu</u>
+  - Zihang Xie
+  - Tianming Liu
   - Jin Lu
-  - Tan Zhu
-  - Jinbo Bi
+  - Fei Dou
+
 
 links:
-  Paper: https://openaccess.thecvf.com/content/ICCV2025W/Findings/html/Dou_LOCAL_Latent_Orthonormal_Contrastive_Learning_for_Paired_Image_Classification_ICCVW_2025_paper.html
+  arXiv: https://arxiv.org/abs/2505.17987
   # Code: https://github.com/luost26/academic-homepage
   # Unsplash: https://unsplash.com/photos/sliced-in-half-pineapple--_PLJZmHZzk
 ---
