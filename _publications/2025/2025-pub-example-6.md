@@ -12,7 +12,7 @@ abstract: >-
   This paper presents Peak-R1, an instruction-tuned LLM framework for robust, cross-modal, and explainable peak detection in cardiac-mechanical signals (BCG/BSG). Peak-R1 introduces a peak-representation that compresses time series while preserving salient events, enabling the model to reason over physiologically meaningful structure rather than noisy raw signals. Trained via supervised fine-tuning and reinforcement learning with a multi-objective reward, and augmented with a Peak-Explanation dataset, Peak-R1 achieves best or tied-best performance and provides rationales that expose failure modes and support human-in-the-loop annotation.
 cover:          /assets/images/covers/2025-peak.png
 authors:
-  - Jiahui Li
+  - <u>Jiahui Li</u>
   - Yida Zhang
   - Zixuan Zeng
   - Jiayu Chen
