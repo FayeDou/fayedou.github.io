@@ -13,7 +13,7 @@ body_attr: >-
   <div class="col-12 col-lg-10">
     {% assign rendered_before_2023 = false %}
     {% for year in pubs_by_year %}
-      {% if year.name == '2025' or year.name == '2024' or year.name == '2023' %}
+      {% if year.name == '2026' or year.name == '2025' or year.name == '2024' or year.name == '2023' %}
         <h2 class="pt-4" id="year-{{ year.name }}">{{ year.name }}</h2>
         <div class="my-0 p-0 bg-white shadow-sm rounded-sm">
           {% for item in year.items %}
@@ -38,6 +38,7 @@ body_attr: >-
 
   <div class="col-2 d-none d-lg-block">
     <div id="navbar-year" class="nav nav-pills flex-column sticky-top" style="top: 80px">
+      <a class="nav-link d-block" href="#year-2025">2026</a>
       <a class="nav-link d-block" href="#year-2025">2025</a>
       <a class="nav-link d-block" href="#year-2024">2024</a>
       <a class="nav-link d-block" href="#year-2023">2023</a>
