@@ -1,6 +1,6 @@
 ---
 title:          "HELENE: Hessian Layer-wise Clipping and Gradient Annealing for Accelerating Fine-tuning LLM with Zeroth-order Optimization"
-date:           2025-08-20 00:01:00 +0800
+date:           2025-11-04 00:01:00 +0800
 selected:       true
 pub:            "Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP)"
 # pub_pre:        "Submitted to "
@@ -23,7 +23,7 @@ authors:
   - Tianming Liu
   - Jin Lu
 links:
-  arXiv: https://arxiv.org/abs/2411.10696
+  Paper: https://aclanthology.org/2025.emnlp-main.1323/
   # Code: https://github.com/luost26/academic-homepage
   # Unsplash: https://unsplash.com/photos/sliced-in-half-pineapple--_PLJZmHZzk
 ---
