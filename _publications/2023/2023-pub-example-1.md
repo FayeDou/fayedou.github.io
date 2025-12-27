@@ -2,7 +2,7 @@
 title:          "Polyhedron Attention Module: Learning Adaptive-order Interactions"
 date:           2023-11-02 00:01:00 +0800
 selected:       true
-pub:            "Advances in Neural Information Processing Systems 36 (NeurIPS)"
+pub:            "Advances in Neural Information Processing Systems 36 (<b>NeurIPS</b>)"
 pub_date:       "2023"
 abstract: >-
   This paper introduces the Polyhedron Attention Module (PAM), which forms interpretable, piecewise polynomial models by adaptively learning feature interactions within polyhedrons in the input space. PAM outperforms ReLU-based networks in expressive power and achieves superior classification results on large-scale click-through rate datasets while uncovering meaningful interactions in medical applications.
