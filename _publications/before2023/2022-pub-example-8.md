@@ -21,7 +21,7 @@ authors:
 
 
 links:
-  Paper: https://ieeexplore.ieee.org/abstract/document/6201485
+  Paper: 
   # 高性能水下传感器网络多信道MAC协议 https://d.wanfangdata.com.cn/periodical/Ch9QZXJpb2RpY2FsQ0hJTmV3UzIwMjUwMTE2MTYzNjE0EhJoZWJnY2R4eGIyMDE1MDcwMjEaCHN0Z2wyaXQz
 
   # Demo: https://luost26.github.io/bubble-visual-hash
