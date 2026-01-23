@@ -17,8 +17,8 @@ authors:
   - Zixuan Zeng
   - Yida Zhang
   - Zaid Farooq Pitafi
-  - Fei Dou
   - Xiang Zhang
+  - Fei Dou
   - Wenzhan Song
 
 
