@@ -87,6 +87,11 @@ div.lazy {
     color: white;               /* 文字颜色 */
   } 
 
+.badge-talk {
+    background-color: #2b6cb0;  /* 例如绿色 */ 
+    color: white;               /* 文字颜色 */
+  } 
+
 
   
 
