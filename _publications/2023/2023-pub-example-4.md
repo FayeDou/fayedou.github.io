@@ -2,7 +2,7 @@
 title:          "Customized Positional Encoding to Combine Static and Time-varying Data in Robust Representation Learning for Crop Yield Prediction"
 date:           2023-08-19 00:01:00 +0800
 selected:       false
-pub:            "the International Joint Conference on Artificial Intelligence (<b>IJCAI</b>)"
+pub:            "the International Joint Conference on Artificial Intelligence (<b style='color:red;'>IJCAI</b>)"
 pub_date:       "2023"
 abstract: >-
   This paper introduces a novel Transformer-based architecture for crop yield prediction that incorporates Customized Positional Encoding (CPE), adapting sequence encoding based on static variables like geographic location. By leveraging CPE and partially linearized attention, the model significantly improves prediction robustness under climate variability, reducing mean absolute error by up to 26% compared to baseline models during extreme drought years.

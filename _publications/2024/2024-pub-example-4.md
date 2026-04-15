@@ -2,7 +2,7 @@
 title:          "Secure Localization for Underwater Wireless Sensor Networks via AUV Cooperative Beamforming With Reinforcement Learning"
 date:           2024-10-02 00:01:00 +0800
 selected:       false
-pub:            "IEEE Transactions on Mobile Computing (<b>TMC</b>)"
+pub:            "IEEE Transactions on Mobile Computing (<b style='color:red;'>TMC</b>)"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
 # pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'
