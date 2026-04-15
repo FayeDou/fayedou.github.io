@@ -12,8 +12,8 @@ abstract: >-
   This paper proposes a contactless, engagement-free seismic-sensing system to detect snoring and breath-stopping for sleep apnea, avoiding the discomfort of wearables and the placement sensitivity of smartphone approaches. It introduces Attention Feature Fusion and Cluster Contrastive Learning, which uses differential/integral signal transforms plus attention-based feature fusion and supervised contrastive learning to separate snoring, breath-stopping, and normal breathing.
 cover:          /assets/images/covers/2026-AFFCL.png
 authors:
-  - Yingjian Song
-  - Jiayu Chen
+  - Yingjian Song*
+  - Jiayu Chen*
   - Zixuan Zeng
   - Yida Zhang
   - Zaid Farooq Pitafi
