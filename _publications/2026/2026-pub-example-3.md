@@ -1,6 +1,6 @@
 ---
 title:          "ADLGen: Synthesizing Symbolic, Event-Triggered Sensor Sequences for Human Activity Modeling"
-date:           2026-04-23 00:01:00 +0800
+date:           2026-04-13 00:01:00 +0800
 selected:       true
 pub:            "Proceedings of the 2026 Conference on Embedded Artificial Intelligence and Sensing Systems (<b style='color:red;'>SenSys</b>)"
 # pub_pre:        "Submitted to "
