@@ -1,7 +1,7 @@
 ---
 title:          "Customized Positional Encoding to Combine Static and Time-varying Data in Robust Representation Learning for Crop Yield Prediction"
 date:           2023-08-19 00:01:00 +0800
-selected:       false
+selected:       true
 pub:            "the International Joint Conference on Artificial Intelligence (<b style='color:red;'>IJCAI</b>)"
 pub_date:       "2023"
 abstract: >-
