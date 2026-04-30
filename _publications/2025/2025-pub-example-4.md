@@ -1,7 +1,7 @@
 ---
 title:          "LOCAL: Latent Orthonormal Contrastive Learning for Paired Images"
 date:           2025-10-19 00:01:00 +0800
-selected:       false
+selected:       true
 pub:            "Proceedings of the IEEE/CVF International Conference on Computer Vision (<b style='color:red;'>ICCV Findings, Oral</b>)"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'

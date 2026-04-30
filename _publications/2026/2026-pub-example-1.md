@@ -1,7 +1,7 @@
 ---
 title:          "CARE: Contrastive Alignment for ADL Recognition from Event-Triggered Sensor Streams"
 date:           2026-03-16 00:01:00 +0800
-selected:       false
+selected:       true
 pub:            "In 2026 IEEE International Conference on Pervasive Computing and Communications (<b style='color:red;'>PerCom</b>)"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
