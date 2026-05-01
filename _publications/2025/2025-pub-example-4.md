@@ -18,7 +18,8 @@ authors:
   - Jinbo Bi
 
 links:
-  Paper: https://openaccess.thecvf.com/content/ICCV2025W/Findings/html/Dou_LOCAL_Latent_Orthonormal_Contrastive_Learning_for_Paired_Image_Classification_ICCVW_2025_paper.html
+  Paper: https://openaccess.thecvf.com/content/ICCV2025W/Findings/papers/Dou_LOCAL_Latent_Orthonormal_Contrastive_Learning_for_Paired_Image_Classification_ICCVW_2025_paper.pdf
+  Supplemental: https://openaccess.thecvf.com/content/ICCV2025W/Findings/supplemental/Dou_LOCAL_Latent_Orthonormal_ICCVW_2025_supplemental.pdf
   # Code: https://github.com/luost26/academic-homepage
   # Unsplash: https://unsplash.com/photos/sliced-in-half-pineapple--_PLJZmHZzk
 ---
