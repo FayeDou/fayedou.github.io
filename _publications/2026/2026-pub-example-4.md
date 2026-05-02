@@ -1,7 +1,7 @@
 ---
 title:          "Cross-Subject Generalization for EEG Decoding: A Survey of Deep Learning Methods"
 date:           2026-04-28 00:01:00 +0800
-selected:       true
+selected:       false
 pub:            "Progress in Biomedical Engineering"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
