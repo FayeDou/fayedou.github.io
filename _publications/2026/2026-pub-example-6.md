@@ -12,8 +12,8 @@ abstract: >-
   This paper presents a feasibility study of contactless, engagement-free sleep apnea screening using an under-bed horizontal seismic sensor. It shows that the horizontal sensing axis captures respiratory activity more clearly than the vertical axis, making it well suited for respiration-centered analysis. Based on the seismic signal, the method extracts respiratory, heartbeat, and movement features and formulates a minute-level three-class classification task to distinguish Normal, OSA+hypopnea, and CSA. Evaluated on 116 subjects with strict patient-independent 5-fold cross-validation, the approach achieves strong performance, demonstrating that under-bed seismic sensing is a promising solution for window-level apnea-related state classification.
 cover:          /assets/images/covers/2026-apnea.png
 authors:
-  - Yingjian Song
-  - Jiayu Chen
+  - Yingjian Song*
+  - Jiayu Chen*
   - Zixuan Zeng
   - Yida Zhang
   - Zaid Farooq Pitafi
