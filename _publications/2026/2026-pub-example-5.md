@@ -24,7 +24,7 @@ authors:
   - Xiang Zhang
   - Jin Lu
   - WenZhan Song
-  - Fei Dou <sup>&dagger;</sup>
+  - Fei Dou
 
 
 
