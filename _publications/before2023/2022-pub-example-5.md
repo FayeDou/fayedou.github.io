@@ -2,7 +2,7 @@
 title:          "On-demand Pipelined MAC for Multi-hop Underwater Wireless Sensor Networks"
 date:           2015-10-22 00:01:00 +0800
 selected:       false
-pub:            "Proceedings of the 10th International Conference on Underwater Networks & Systems (WUWNet)"
+pub:            "Proceedings of the 10th International Conference on Underwater Networks & Systems (WUWNet, <b>Underwater Flagship Conf.</b>)"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
 # pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'
