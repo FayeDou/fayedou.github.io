@@ -2,7 +2,7 @@
 title:          "Deep Q-Learning-Based Mobile Charger Path Planning in Wireless Powered Communication Networks"
 date:           2025-08-12 00:01:00 +0800
 selected:       false
-pub:            "ACM Transactions on Embedded Computing Systems (<b>TECS</b>)"
+pub:            "ACM Transactions on Embedded Computing Systems (<b>TECS</b>, Premier journal in embedded computing systems)"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
 # pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'
