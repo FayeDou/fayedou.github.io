@@ -2,7 +2,7 @@
 title:          "Attention Feature Fusion with Cluster Contrastive Learning for Snoring and Breath-Holding Detection Using Seismic Sensing"
 date:           2026-03-16 00:02:00 +0800
 selected:       false
-pub:            "In 2026 IEEE International Conference on Pervasive Computing and Communications (<b style='color:red;'>PerCom</b>)"
+pub:            "In 2026 IEEE International Conference on Pervasive Computing and Communications (<b style='color:red;'>PerCom</b>, <b>CORE A*</b>)"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
 # pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'

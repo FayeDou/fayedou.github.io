@@ -2,7 +2,7 @@
 title:          "Cross-Modal Translation and Alignment of Sensor Events for Layout-Aware Activity Modeling"
 date:           2025-10-10 00:01:00 +0800
 selected:       false
-pub:            "Proceedings of the 2025 ACM International Symposium on Wearable Computers (<b style='color:red;'>UbiComp/ISWC</b>)"
+pub:            "Proceedings of the 2025 ACM International Symposium on Wearable Computers (<b style='color:red;'>UbiComp/ISWC</b>, <b>CORE A*</b>)"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
 # pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'

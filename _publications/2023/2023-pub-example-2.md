@@ -2,7 +2,7 @@
 title:          "Mobilizing Personalized Federated Learning in Infrastructure-Less and Heterogeneous Environments via Random Walk Stochastic ADMM"
 date:           2023-11-21 00:01:00 +0800
 selected:       true
-pub:            "Advances in Neural Information Processing Systems 36 (<b style='color:red;'>NeurIPS</b>)"
+pub:            "Advances in Neural Information Processing Systems 36 (<b style='color:red;'>NeurIPS</b>, <b>CORE A*</b>)"
 pub_date:       "2023"
 abstract: >-
   This paper proposes RWSADMM, a novel federated learning algorithm designed for infrastructure-less environments with isolated, heterogeneous nodes connected via wireless links. By leveraging server mobility and enforcing hard constraints among adjacent clients, RWSADMM enables efficient, personalized learning with provable convergence, reduced communication costs, and improved accuracy and scalability over baseline methods.
