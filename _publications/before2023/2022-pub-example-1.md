@@ -2,7 +2,7 @@
 title:          "A Bisection Reinforcement Learning Approach to 3D Indoor Localization"
 date:           2021-04-15 00:01:00 +0800
 selected:       true
-pub:            "IEEE Internet of Things Journal (<b style='color:red;'>IOT-J</b>)"
+pub:            "IEEE Internet of Things Journal (<b style='color:red;'>IOT-J</b>, <b>IF=10.6</b>)"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
 # pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'
