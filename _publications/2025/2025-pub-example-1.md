@@ -2,7 +2,7 @@
 title:          "Multi-granularity Supervised Contrastive Learning with Online Adaptation for Contactless In-bed Posture Classification"
 date:           2025-06-18 00:01:00 +0800
 selected:       true
-pub:            "Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (<b style='color:red;'>UbiComp/IMWUT</b>, <b>CORE A*</b>)"
+pub:            "Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (<b style='color:red;'>UbiComp/IMWUT</b>, <b>CSRankings</b>)"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
 # pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'
