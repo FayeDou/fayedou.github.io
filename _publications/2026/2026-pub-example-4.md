@@ -21,7 +21,7 @@ authors:
 
 
 links:
-  Paper: https://arxiv.org/pdf/2604.27033
+  Paper: https://iopscience.iop.org/article/10.1088/2516-1091/ae65f0
   # arXiv: https://arxiv.org/pdf/2604.27033
   # Code: https://github.com/luost26/academic-homepage
   # Unsplash: https://unsplash.com/photos/sliced-in-half-pineapple--_PLJZmHZzk
