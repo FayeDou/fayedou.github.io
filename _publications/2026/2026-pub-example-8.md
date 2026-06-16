@@ -1,35 +1,29 @@
 ---
-title:          "Contactless Sleep Apnea Detection with Bodyseismography"
-date:           2026-04-29 00:01:00 +0800
-selected:       true
-pub:            "Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (<b style='color:red;'>UbiComp/IMWUT</b>, <b>CSRankings</b>)" 
+title:          "LastAct: Trajectory-Guided Latest-Activity Localization for Real-Time Smart-Home Activity Recognition"
+date:           2026-05-29 00:01:00 +0800
+selected:       false
+pub:            "arXiv preprint arXiv:2606.00260" 
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
 # pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'
 pub_date:       "2026"
 
 abstract: >-
-  This paper presents a feasibility study of contactless, engagement-free sleep apnea screening using an under-bed horizontal seismic sensor. It shows that the horizontal sensing axis captures respiratory activity more clearly than the vertical axis, making it well suited for respiration-centered analysis. Based on the seismic signal, the method extracts respiratory, heartbeat, and movement features and formulates a minute-level three-class classification task to distinguish Normal, OSA+hypopnea, and CSA. Evaluated on 116 subjects with strict patient-independent 5-fold cross-validation, the approach achieves strong performance, demonstrating that under-bed seismic sensing is a promising solution for window-level apnea-related state classification.
-cover:          /assets/images/covers/2026-apnea.png
+  This paper presents LastAct, a trajectory-centric framework for streaming smart-home human activity recognition under realistic mixed-window settings. Instead of assuming pre-segmented activities, LastAct targets the most recent activity in continuous sensor streams where activity boundaries are unknown. It maps ambient sensor events onto home floorplans to preserve spatial trajectories, detects contaminated windows, localizes the latest activity transition, and masks stale pre-boundary evidence. Across four public smart-home datasets, LastAct improves robustness on mixed-activity windows while maintaining competitive performance on pure windows.
+cover:          /assets/images/covers/2026-lastact.png
 authors:
-  - Yingjian Song*
-  - Jiayu Chen*
-  - Zixuan Zeng
-  - Yida Zhang
-  - Zaid Farooq Pitafi
-  - Deepak Kumar Das
-  - Bradley G. Phillips
-  - Younghoon Kwon
-  - Xiang Zhang
-  - Fei Dou
-  - Wenzhan Song
+  - Zishuai Liu*
+  - Ruili Fang*
+  - Jin Lu
+  - Fei Dou#
+ 
 
 
 
 
 
 links:
-  Paper: https://dl.acm.org/doi/10.1145/3810211
+  arXiv: https://arxiv.org/abs/2606.00260
   # Code: https://github.com/luost26/academic-homepage
   # Unsplash: https://unsplash.com/photos/sliced-in-half-pineapple--_PLJZmHZzk
 ---
