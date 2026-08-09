@@ -9,7 +9,8 @@ pub:            "arXiv preprint arXiv:2607.28788"
 pub_date:       "2026"
 
 abstract: >-
-  This paper introduces EarlyDx, a large-scale benchmark for open-ended early diagnosis from incomplete admission-time evidence. Built from 154,834 MIMIC-IV emergency-department encounters, EarlyDx includes free-text clinical notes, uses diagnoses recorded during the ED encounter rather than at discharge, and employs an LLM auditor to verify whether each diagnosis is supported by the available evidence.
+  This paper introduces EarlyDx, a large-scale benchmark for open-ended early diagnosis from limited and incomplete admission-time evidence. Built from 154,834 emergency-department encounters in MIMIC-IV, EarlyDx restricts each case to information available at admission, incorporates free-text clinical notes, and uses diagnoses recorded during the ED encounter rather than discharge diagnoses informed by the subsequent hospital course. An LLM-based auditor further classifies each diagnostic label according to whether it is fully, partially, or insufficiently supported by the available evidence, enabling more clinically grounded evaluation.
+
 cover:          /assets/images/covers/2026-early-dx.png
 authors:
   - <u>Jiahui Li</u>
