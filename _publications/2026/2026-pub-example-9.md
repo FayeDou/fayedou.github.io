@@ -9,7 +9,7 @@ pub:            "In Proceedings of the 2014 ACM International Joint Conference o
 pub_date:       "2026"
 
 abstract: >-
-  This paper presents HomeTwin, an interaction-aware pipeline for generating multi-resident smart-home sensor data by jointly modeling household schedules, resident interactions, and shared-resource constraints, then rendering the coordinated schedules into realistic sensor-event streams..
+  This paper presents HomeTwin, an interaction-aware pipeline for generating multi-resident smart-home sensor data by jointly modeling household schedules, resident interactions, and shared-resource constraints, then rendering the coordinated schedules into realistic sensor-event streams.
 cover:          /assets/images/covers/2026-hometwin.png
 authors:
   - <u>Zishuai Liu</u>
