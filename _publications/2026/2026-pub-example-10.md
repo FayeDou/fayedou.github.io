@@ -14,8 +14,8 @@ abstract: >-
 cover:          /assets/images/covers/2026-early-dx.png
 authors:
   - <u>Jiahui Li</u>
-  - <u>Zishuai Liu</u>
   - <u>Ruili Fang</u>
+  - <u>Zishuai Liu</u>
   - <u>Yutong Guo</u>
   - Nan Yang
   - Wenzhan Song
