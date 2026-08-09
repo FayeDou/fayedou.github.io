@@ -2,7 +2,7 @@
 title:          "HomeTwin: Interaction-Aware Synthetic Data Generation for Multi-Resident Smart Homes"
 date:           2026-07-21 00:01:00 +0800
 selected:       false
-pub:            "In Proceedings of the ACM International Joint Conference on Pervasive and Ubiquitous Computing (<b style='color:red '>UbiComp Student Competition and Challenges</b>)" 
+pub:            "Proceedings of the ACM International Joint Conference on Pervasive and Ubiquitous Computing (<b style='color:red '>UbiComp Student Competition and Challenges</b>)" 
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
 # pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'
