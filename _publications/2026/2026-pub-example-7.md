@@ -2,7 +2,7 @@
 title:          "DeepArrhythmia: Segment-Contextualized ECG Arrhythmia Classification via Selective Evidence Acquisition"
 date:           2026-05-15 00:01:00 +0800
 selected:       true
-pub:            "Advances in Neural Information Processing Systems 36 (<b style='color:red;'>NeurIPS</b>, <b>CORE A*/CSRankings</b>)"
+pub:            "Advances in Neural Information Processing Systems 40 (<b style='color:red;'>NeurIPS</b>, <b>CORE A*/CSRankings</b>)"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
 # pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'
