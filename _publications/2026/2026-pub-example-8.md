@@ -1,6 +1,6 @@
 ---
 title:          "LastAct: Trajectory-Guided Latest-Activity Localization for Real-Time Smart-Home Activity Recognition"
-date:           2026-05-29 00:01:00 +0800
+date:           2026-09-20 00:01:00 +0800
 selected:       true
 pub:            "Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (<b style='color:red '>UbiComp/IMWUT</b>, <b>CSRankings</b>)" 
 # pub_pre:        "Submitted to "
@@ -23,7 +23,7 @@ authors:
 
 
 links:
-  Paper: https://arxiv.org/abs/2606.00260
+  Paper: https://dl.acm.org/doi/abs/10.1145/3832041
   # Code: https://github.com/luost26/academic-homepage
   # Unsplash: https://unsplash.com/photos/sliced-in-half-pineapple--_PLJZmHZzk
 ---
