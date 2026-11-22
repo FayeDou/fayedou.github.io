@@ -92,6 +92,11 @@ div.lazy {
     color: white;               /* 文字颜色 */
   } 
 
+.badge-research {
+    background-color: #ed7bdc;  /* 例如绿色 */ 
+    color: white;               /* 文字颜色 */
+} 
+
 
   
 
