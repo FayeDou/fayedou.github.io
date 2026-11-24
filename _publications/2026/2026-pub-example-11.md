@@ -32,7 +32,7 @@ authors:
 
 
 links:
-  arXiv: https://arxiv.org/abs/2607.28788 
+  Paper: 
   # Code: https://github.com/luost26/academic-homepage
   # Unsplash: https://unsplash.com/photos/sliced-in-half-pineapple--_PLJZmHZzk
 ---
