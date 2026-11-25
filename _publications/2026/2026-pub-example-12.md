@@ -9,7 +9,7 @@ pub:            "arxiv.org/abs/2610.35844"
 pub_date:       "2026"
 
 abstract: >-
-  This <em>white paper</em> presents a theoretical and numerical framework for bodyseismography (BSG), explaining how cardiovascular forces and body–bed transmission jointly shape contactless vibration measurements. It establishes conditions for locally inferring hemodynamic targets and examines how multiple sensing axes can reduce ambiguity. Participant-specific modeling in individuals demonstrates waveform reconstruction and shows how transmission can alter or reverse feature associations with stroke volume. These findings provide a physical foundation for interpreting directional BSG signals in relation to hemodynamic changes.
+  This <em><b>white paper</b></em> presents a theoretical and numerical framework for bodyseismography (BSG), explaining how cardiovascular forces and body–bed transmission jointly shape contactless vibration measurements. It establishes conditions for locally inferring hemodynamic targets and examines how multiple sensing axes can reduce ambiguity. Participant-specific modeling in individuals demonstrates waveform reconstruction and shows how transmission can alter or reverse feature associations with stroke volume. These findings provide a physical foundation for interpreting directional BSG signals in relation to hemodynamic changes.
 
 cover:          /assets/images/covers/2026-bsg.png
 authors:
