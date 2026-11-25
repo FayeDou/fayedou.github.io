@@ -1,5 +1,5 @@
 ---
-title:          "Glydentify: An explainable deep learning platform for glycosyltransferase donor substrate prediction"
+title:          "Glydentify: An Explainable Deep Learning Platform for Glycosyltransferase Donor Substrate Prediction"
 date:           2026-11-20 00:01:00 +0800
 selected:       false
 pub:            "<b style='color:red '>Communications Biology</b>, <b>Nature Portfolio</b>" 
