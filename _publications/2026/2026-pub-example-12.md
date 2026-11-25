@@ -2,7 +2,7 @@
 title:          "Bodyseismography (BSG): Theoretical Foundation and Numerical Modeling"
 date:           2026-10-28 00:01:00 +0800
 selected:       false
-pub:            "arxiv.org/abs/2610.35844" 
+pub:            "arXiv preprint arXiv:2610.35844" 
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
 # pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'
